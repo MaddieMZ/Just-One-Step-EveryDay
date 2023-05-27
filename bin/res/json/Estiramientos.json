@@ -1,0 +1,69 @@
+{
+    "1":{
+        "Nombre": "Estocada con estiramiento de rodilla izquierda",
+        "Imagen": "Estiramiento1.png",
+        "Descripcion": "Comienza en la posición de flexión. Adelanta la rodilla izquierda y apoya la rodilla derecha en el suelo.Levanta el tren superior y coloca las manos en la cintura. A continuación, mueve la cadera hacia delante a la vez que mantienes recto el tren superior.Asegúrate de que la rodilla delantera no sobrepasa a los dedos de los pies. Mantén esta posición durante unos segundos."
+    },
+
+    "2":{
+        "Nombre": "Estocada con estiramiento de rodilla derecha",
+        "Imagen": "Estiramiento2.png",
+        "Descripcion": "Comienza en la posición de flexión. Adelanta la rodilla derecha y apoya la rodilla izquierda en el suelo.Levanta el tren superior y coloca las manos en la cintura. A continuación, mueve la cadera hacia delante a la vez que mantienes recto el tren superior.Asegúrate de que la rodilla delantera no sobrepasa a los dedos de los pies. Mantén esta posición durante unos segundos."
+    },
+
+    "3":{
+        "Nombre": "Estiramiento de pantorrilla izquierda",
+        "Imagen": "Estiramiento3.png",
+        "Descripcion": "Colócate a un paso grande de distancia de una pared. Adelanta el pie derecho y empuja la pared con las manos.Asegúrate de que la pierna izquierda está totalmente extendida y de que notas cómo se estira la pantorrilla izquierda. Mantén esta posición durante unos segundos."
+    },
+
+    
+    "4":{
+        "Nombre": "Estiramiento de pantorrilla derecha",
+        "Imagen": "Estiramiento4.png",
+        "Descripcion": "Colócate a un paso grande de distancia de una pared. Adelanta el pie izquierdo y empuja la pared con las manos.Asegúrate de que la pierna derecha está totalmente extendida y de que notas cómo se estira la pantorrilla derecha. Mantén esta posición durante unos segundos."
+    },
+
+    "5":{
+        "Nombre": ".Estiramiento de tríceps izquierdo",
+        "Imagen": "Estiramiento5.png",
+        "Descripcion": "Coloca la mano izquierda en la espalda, utiliza la mano derecha para agarrar el codo izquierdo y tira de él suavemente. Mantén esta posición durante unos segundos."
+    },
+
+    "6":{
+        "Nombre": "Estiramiento de tríceps derecho",
+        "Imagen": "Estiramiento6.png",
+        "Descripcion": "Coloca la mano derecha en la espalda, utiliza la mano izquierda para agarrar el codo derecho y tira de él suavemente. Mantén esta posición durante unos segundos."
+    },
+
+    "7":{
+        "Nombre": "Postura Gato Vaca",
+        "Imagen": "Estiramiento7.png",
+        "Descripcion": "Comienza a cuatro patas con las rodillas en paralelo al trasero y las manos justo debajo de los hombros.A continuación, inspira y baja la barriga, estira los hombros hacia atrás y levanta la cabeza hacia arriba.Al espirar, dobla la espalda hacia atrás y baja la cabeza. Repite el ejercicio."
+    },
+
+    "8":{
+        "Nombre": "Estiramiento de cobra",
+        "Imagen": "Estiramiento8.png",
+        "Descripcion": "Túmbate boca abajo, dobla los codos y coloca las manos por debajo de los hombros.A continuación, levanta el pecho del suelo tanto como puedas. Mantén la posición durante unos segundos."
+    },
+
+    "9":{
+        "Nombre": "Postura de Bebé",
+        "Imagen": "Estiramiento9.png",
+        "Descripcion": "Comienza con las rodillas y las manos en el suelo. Coloca las manos un poco adelantadas, abre las rodillas y junta las puntas de los pies. Inspira, espira y siéntate sobre las rodillas. Intenta que tu trasero toque los talones. Relaja los codos, toca el suelo con la frente e intenta bajar el pecho hasta el suelo. Mantén esta posición."
+    },
+
+    "10":{
+        "Nombre": "Estiramiento de columna con giro lumbar izquierdo",
+        "Imagen": "Estiramiento10.png",
+        "Descripcion": "Túmbate boca arriba con las piernas extendidas.Levanta la pierna izquierda y utiliza la mano derecha para tirar de la rodilla izquierda hacia la derecha a la vez que mantienes el otro brazo extendido hacia el lado y apoyado en el suelo.Mantén esta posición durante unos segundos."
+    },
+
+    "11":{
+        "Nombre": "Estiramiento de columna con giro lumbar derecho",
+        "Imagen": "Estiramiento11.png",
+        "Descripcion": "Túmbate boca arriba con las piernas extendidas.Levanta la pierna derecha y utiliza la mano izquierda para tirar de la rodilla derecha hacia la izquierda a la vez que mantienes el otro brazo extendido hacia el lado y apoyado en el suelo.Mantén esta posición durante unos segundos."
+    }
+
+}

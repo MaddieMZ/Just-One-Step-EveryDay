@@ -11,8 +11,6 @@ public class MainMenu extends JPanel {
 
 	private static final long serialVersionUID = -4215390768537607328L;
 
-	//private Interfaz listener;
-	
 	public MainMenu(Interfaz listener) {
 		//this.listener=listener;
 		
