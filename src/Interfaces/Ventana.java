@@ -51,7 +51,7 @@ public class Ventana extends JFrame implements Interfaz{
 	@Override
 	public void PantallaElegida(int pantalla) {
 		cambiarPantalla(pantalla);
-		System.out.println(pantalla);
+		//System.out.println(pantalla);
 	}
 	
 	@Override

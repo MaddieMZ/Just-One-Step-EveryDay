@@ -22,5 +22,16 @@ public class Contenido extends JPanel{
 		JLabel ej9i= new JLabel("");
 		JLabel ej10i= new JLabel("");
 		JLabel ej11i= new JLabel("");
+		ej1i.setBounds(79,63,100,100);
+		ej2i.setBounds(,100,100);
+		ej3i.setBounds(,100,100);
+		ej4i.setBounds(,100,100);
+		ej5i.setBounds(,100,100);
+		ej6i.setBounds(,100,100);
+		ej7i.setBounds(,100,100);
+		ej8i.setBounds(,100,100);
+		ej9i.setBounds(,100,100);
+		ej10i.setBounds(,100,100);
+		ej11i.setBounds(,100,100);
 	}
 }

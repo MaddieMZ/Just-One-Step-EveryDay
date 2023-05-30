@@ -75,6 +75,7 @@ public class Seleccion extends JPanel {
 		PiernasContenido.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				listener.setContenido(Interfaz.PIERNAS);
+				System.out.println(listener.getContenido());
 				listener.PantallaElegida(Interfaz.CONTENIDO_RUTINA);
 			}
 		});
