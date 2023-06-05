@@ -27,10 +27,10 @@ public class MainMenu extends JPanel {
 		
 		add(ayuda);
 		setBackground(new Color(249, 248, 246));
-		ImageIcon logo= new ImageIcon("src/logo.jpg");
+		//ImageIcon logo= new ImageIcon("src/Imagenes_Ejercicios_Mini/Abdomen1.png");
 		JLabel logolabel= new JLabel("");
 		logolabel.setFont(new Font("Tahoma", Font.PLAIN, 14));
-		logolabel.setIcon(logo);
+		logolabel.setIcon(new ImageIcon(MainMenu.class.getResource("/Imagenes_Variadas/logo.jpg")));
 		logolabel.setBounds(90, 50, 532, 155);
 		add(logolabel);
 
@@ -51,7 +51,7 @@ public class MainMenu extends JPanel {
 	}
 	
 	public void mostrarCreditos() {
-		JOptionPane.showMessageDialog(null,"Todo lo hizo JoseMZ.\n Los demas no hiceron nada","Creditos c:",JOptionPane.INFORMATION_MESSAGE);
+		JOptionPane.showMessageDialog(null,"Todo lo hizo JoseMZ.\n Los demas no hiceron nada MAMALA EDDY","Creditos c:",JOptionPane.INFORMATION_MESSAGE);
 
 	}
 }

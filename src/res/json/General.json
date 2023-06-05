@@ -1,69 +1,69 @@
-{
-    "1":{
+[
+    {
         "Nombre": "Saltos De Tijera",
         "Imagen": "General1.png",
         "Descripcion": "Comienza con los pies juntos y los brazos a los lados; a continuación, salta con los pies separados y las manos sobre la cabeza. Vuelve a la posición original y realiza la siguiente repetición. Este ejercicio sirve para entrenar todo el cuerpo y trabaja todos los grandes grupos musculares."
     },
 
-    "2":{
+    {
         "Nombre": "Sentadilla en Pared",
         "Imagen": "General2.png",
         "Descripcion": "Apoye la espalda contra una pared, mantén la espalda recta, baje hasta que sus rodillas estén en ángulo recto y permanezca en esa posición. Este ejercicio se realiza para fortalecer los músculos del cuadriceps."
     },
 
-    "3":{
+    {
         "Nombre": "Flexiones",
         "Imagen": "General3.png",
         "Descripcion": "Suba y baje el cuerpo con los brazos, mantenga el cuerpo recto. Procure que los codos formen 45 grados con el tronco, este ejercicio trabaja los músculos del pecho, hombros, tríceps, espalda y piernas."
     },
 
     
-    "4":{
+    {
         "Nombre": "Crunch Abdominales",
         "Imagen": "General4.png",
         "Descripcion": "Túmbate boca arriba con las rodillas flexionadas y los brazos extendidos hacia delante. A continuación, levanta el tren superior del suelo. Aguanta unos segundos y vuelve a la posición original lentamente. Sobre todo, se trabajan el músculo del recto del abdomen y los oblicuos."
     },
 
-    "5":{
+    {
         "Nombre": "Step en Silla",
-        "Imagen": "General5.pong",
+        "Imagen": "General5.png",
         "Descripcion": "Coloque un pie en la silla, levante su cuerpo del suelo hasta subirse con los dos pies en la silla, este ejercicio fortalece las piernas y glúteos."
     },
 
-    "6":{
+    {
         "Nombre": "Squats",
         "Imagen": "General6.png",
         "Descripcion": "De pie, con los pies alineados con los hombros y los brazos estirados hacia delante, baja el cuerpo hasta que los muslos se encuentren paralelos al suelo. Al extender las rodillas, estas deberían quedar alineadas con la punta de los pies. Vuelve a la posición original y realiza la siguiente repetición. Este ejercicio trabaja los muslos, los glúteos, el cuádriceps, los isquiotibiales y el tren inferior."
     },
 
-    "7":{
+    {
         "Nombre": "Tríceps en Silla",
         "Imagen": "General7.png",
         "Descripcion": "Apóyese con los brazos en la parte delantera de la silla y sitúe los pies hacia delante. Manteniendo la espalda cerca de la silla, doble los codos y trate de bajar a 90 grados. Este es un gran ejercicio para el tríceps."
     },
 
-    "8":{
+    {
         "Nombre": "Tablón",
         "Imagen": "General8.png",
         "Descripcion": "Si mantenemos la posición para flexiones, dejando caer el peso del cuerpo en los antebrazos, codos y dedos de los pies, los tablones fortalecen los abdominales, la espalda y los hombros."
     },
 
-    "9":{
+    {
         "Nombre": "Elevaciones de Rodillas",
         "Imagen": "General9.png",
         "Descripcion": "Levante la pierna hasta que forme un ángulo de 90 grados con el tronco, repita con la otra pierna, y continúe alternando un lado a otro vigorosamente. Este es un excelente ejercicio para las piernas y las caderas y se puede mejorar la flexibilidad del tren inferior."
     },
 
-    "10":{
+    {
         "Nombre": "Zancanda Frontal",
         "Imagen": "General10.png",
         "Descripcion": "Partiendo de posición de pié, haga como que va a dar un paso grande, de manera que la pierna que se adelanta debe poder llegar a formar 90 grados respecto al tronco que deberá estar siempre erguido. Ahora trate de volver a la posición inicial manteniendo la postura. La zancada fortalece los cuádriceps, los glúteos, así como los tendones de la corva."
     },
 
-    "11":{
+    {
         "Nombre": "Flexión y Rotación",
         "Imagen": "General11.png",
         "Descripcion": "Comienza en la posición de flexión. A continuación, baja para realizar una flexión y al subir, rota el tren superior y extiende el brazo derecho hacia arriba. Repite el ejercicio con el otro brazo. Este ejercicio es genial para el pecho, los hombros, los brazos y el torso."
     }
 
-}
+]

@@ -21,13 +21,12 @@ public class Seleccion extends JPanel {
 		JLabel EligeLabel = new JLabel("Elige una rutina de entrenamiento");
 		EligeLabel.setHorizontalAlignment(SwingConstants.CENTER);
 		EligeLabel.setFont(new Font("Tahoma", Font.PLAIN, 26));
-		EligeLabel.setBounds(140, 11, 437, 50);
+		EligeLabel.setBounds(130, 11, 437, 50);
 		add(EligeLabel);
 		
-		ImageIcon Brazos= new ImageIcon("src/res/Imagenes_Seleccion/BrazosBoton.png");
 		JLabel BrazosImagen = new JLabel();
 		BrazosImagen.setBounds(56, 58, 150, 150);
-		BrazosImagen.setIcon(Brazos);
+		BrazosImagen.setIcon(new ImageIcon(Seleccion.class.getResource("/res/Imagenes_Seleccion/BrazosBoton.png")));
 		add(BrazosImagen);
 		
 		ImageIcon info= (ImageIcon) UIManager.getIcon("Tree.expandedIcon");
@@ -46,7 +45,9 @@ public class Seleccion extends JPanel {
 		JButton BrazosContenido = new JButton("Ver contenido");
 		BrazosContenido.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-			
+				listener.setContenido(Interfaz.BRAZOS);
+				System.out.println(listener.getContenido());
+				listener.PantallaElegida(Interfaz.CONTENIDO_RUTINA);			
 			}
 		});
 		BrazosContenido.setFont(new Font("Roboto", Font.PLAIN, 14));
@@ -54,10 +55,9 @@ public class Seleccion extends JPanel {
 		BrazosContenido.setIcon(info);
 		add(BrazosContenido);
 		
-		ImageIcon Piernas= new ImageIcon("src/res/Imagenes_Seleccion/PiernasBoton.png");
 		JLabel PiernasImagen = new JLabel();
 		PiernasImagen.setBounds(272, 58, 150, 150);
-		PiernasImagen.setIcon(Piernas);
+		PiernasImagen.setIcon(new ImageIcon(Seleccion.class.getResource("/res/Imagenes_Seleccion/PiernasBoton.png")));
 		add(PiernasImagen);
 		
 		JButton PiernasInicio = new JButton("Iniciar");
@@ -83,10 +83,9 @@ public class Seleccion extends JPanel {
 		PiernasContenido.setIcon(info);
 		add(PiernasContenido);
 		
-		ImageIcon Abdomen = new ImageIcon("src/res/Imagenes_Seleccion/AbdomenBoton.png");
 		JLabel AbdomenImagen = new JLabel();
 		AbdomenImagen.setBounds(479, 58, 150, 150);
-		AbdomenImagen.setIcon(Abdomen);
+		AbdomenImagen.setIcon(new ImageIcon(Seleccion.class.getResource("/res/Imagenes_Seleccion/AbdomenBoton.png")));
 		add(AbdomenImagen);
 		
 		JButton AbdomenInicio = new JButton("Iniciar");
@@ -102,16 +101,18 @@ public class Seleccion extends JPanel {
 		AbdomenContenido.setFont(new Font("Roboto", Font.PLAIN, 14));
 		AbdomenContenido.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				listener.setContenido(Interfaz.ABDOMEN);
+				System.out.println(listener.getContenido());
+				listener.PantallaElegida(Interfaz.CONTENIDO_RUTINA);
 			}
 		});		
 		AbdomenContenido.setBounds(479, 314, 150, 42);
 		AbdomenContenido.setIcon(info);
 		add(AbdomenContenido);
 		
-		ImageIcon General = new ImageIcon("src/res/Imagenes_Seleccion/GeneralBoton.png");
 		JLabel GeneralImagen = new JLabel();
 		GeneralImagen.setBounds(176, 380, 150, 150);
-		GeneralImagen.setIcon(General);
+		GeneralImagen.setIcon(new ImageIcon(Seleccion.class.getResource("/res/Imagenes_Seleccion/GeneralBoton.png")));
 		add(GeneralImagen);
 		
 		JButton GeneralInicio = new JButton("Iniciar");
@@ -127,16 +128,18 @@ public class Seleccion extends JPanel {
 		GeneralContenido.setFont(new Font("Roboto", Font.PLAIN, 14));
 		GeneralContenido.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				listener.setContenido(Interfaz.GENERAL);
+				System.out.println(listener.getContenido());
+				listener.PantallaElegida(Interfaz.CONTENIDO_RUTINA);
 			}
 		});
 		GeneralContenido.setBounds(176, 634, 150, 42);
 		GeneralContenido.setIcon(info);
 		add(GeneralContenido);
 		
-		ImageIcon Estiramiento = new ImageIcon("src/res/Imagenes_Seleccion/EstiramientosBoton.png");
 		JLabel EstiramientoImagen = new JLabel();
 		EstiramientoImagen.setBounds(387, 380, 150, 150);
-		EstiramientoImagen.setIcon(Estiramiento);
+		EstiramientoImagen.setIcon(new ImageIcon(Seleccion.class.getResource("/res/Imagenes_Seleccion/EstiramientosBoton.png")));
 		add(EstiramientoImagen);
 		
 		JButton EstiramientoInicio = new JButton("Iniciar");
@@ -152,6 +155,9 @@ public class Seleccion extends JPanel {
 		EstiramientoContenido.setFont(new Font("Roboto", Font.PLAIN, 14));
 		EstiramientoContenido.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				listener.setContenido(Interfaz.ESTIRAMIENTOS);
+				System.out.println(listener.getContenido());
+				listener.PantallaElegida(Interfaz.CONTENIDO_RUTINA);
 			}
 		});
 		EstiramientoContenido.setBounds(387, 634, 150, 42);

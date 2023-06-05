@@ -14,8 +14,8 @@ public class Ventana extends JFrame implements Interfaz{
 	private MainMenu menuPrincipal;
 	public Ventana(){
 		menuPrincipal= new MainMenu(this);
-		add(menuPrincipal);
-		setIconImage(icono.getImage());
+		getContentPane().add(menuPrincipal);
+		setIconImage(Toolkit.getDefaultToolkit().getImage(Ventana.class.getResource("/Imagenes_Variadas/icono.png")));
 		setTitle("Just One Step Everyday");
 		setResizable(false);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

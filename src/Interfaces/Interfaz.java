@@ -9,8 +9,6 @@ package Interfaces;
 			public static int EJERCICIO=5;
 			public static int PANTALLA_FINAL=6;
 			
-		   //void onButtonClicked(String result);
-		   //void ContenidoElegido(int contenido);
 			public static int BRAZOS=1;
 			public static int PIERNAS=2;
 			public static int ABDOMEN=3;
