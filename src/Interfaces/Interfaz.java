@@ -6,7 +6,7 @@ package Interfaces;
 			public static int SELECCION_RUTINA=2;
 			public static int CONTENIDO_RUTINA=3;
 			public static int DESCANSO=4;
-			public static int EJERCICIO=5;
+			public static int ENTRENAMIENTO=5;
 			public static int PANTALLA_FINAL=6;
 			
 			public static int BRAZOS=1;

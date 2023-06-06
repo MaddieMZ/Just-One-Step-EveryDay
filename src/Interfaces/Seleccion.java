@@ -9,7 +9,6 @@ import javax.swing.*;
 
 public class Seleccion extends JPanel {
 
-	private int contenido;
 	private static final long serialVersionUID = 5275715189222879173L;
 
 	public Seleccion(Interfaz listener) {
@@ -35,7 +34,9 @@ public class Seleccion extends JPanel {
 		BrazosInicio.setFont(new Font("Roboto", Font.PLAIN, 14));
 		BrazosInicio.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-			
+				listener.setContenido(Interfaz.BRAZOS);
+				System.out.println(listener.getContenido());
+				listener.PantallaElegida(Interfaz.DESCANSO);			
 			}
 		});
 		
@@ -63,7 +64,9 @@ public class Seleccion extends JPanel {
 		JButton PiernasInicio = new JButton("Iniciar");
 		PiernasInicio.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-			
+				listener.setContenido(Interfaz.PIERNAS);
+				System.out.println(listener.getContenido());
+				listener.PantallaElegida(Interfaz.DESCANSO);			
 			}
 		});
 		PiernasInicio.setFont(new Font("Roboto", Font.PLAIN, 14));
@@ -92,6 +95,9 @@ public class Seleccion extends JPanel {
 		AbdomenInicio.setFont(new Font("Roboto", Font.PLAIN, 14));
 		AbdomenInicio.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				listener.setContenido(Interfaz.ABDOMEN);
+				System.out.println(listener.getContenido());
+				listener.PantallaElegida(Interfaz.DESCANSO);
 			}
 		});
 		AbdomenInicio.setBounds(503, 261, 100, 42);
@@ -119,6 +125,9 @@ public class Seleccion extends JPanel {
 		GeneralInicio.setFont(new Font("Roboto", Font.PLAIN, 14));
 		GeneralInicio.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				listener.setContenido(Interfaz.GENERAL);
+				System.out.println(listener.getContenido());
+				listener.PantallaElegida(Interfaz.DESCANSO);
 			}
 		});
 		GeneralInicio.setBounds(197, 581, 100, 42);
@@ -146,6 +155,9 @@ public class Seleccion extends JPanel {
 		EstiramientoInicio.setFont(new Font("Roboto", Font.PLAIN, 14));
 		EstiramientoInicio.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				listener.setContenido(Interfaz.ESTIRAMIENTOS);
+				System.out.println(listener.getContenido());
+				listener.PantallaElegida(Interfaz.DESCANSO);
 			}
 		});
 		EstiramientoInicio.setBounds(411, 581, 100, 42);

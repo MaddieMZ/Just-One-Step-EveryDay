@@ -42,6 +42,10 @@ public class Ventana extends JFrame implements Interfaz{
 				panelActual.add(new Contenido(this));
 				break;
 				
+			case 4:
+				panelActual.add(new Descanso(this));
+				break;
+				
 		}
 		invalidate();
 		repaint();

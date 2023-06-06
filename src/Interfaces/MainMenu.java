@@ -51,7 +51,8 @@ public class MainMenu extends JPanel {
 	}
 	
 	public void mostrarCreditos() {
-		JOptionPane.showMessageDialog(null,"Todo lo hizo JoseMZ.\n Los demas no hiceron nada MAMALA EDDY","Creditos c:",JOptionPane.INFORMATION_MESSAGE);
+		JOptionPane.showMessageDialog(null,"MAMALA EDDY","Creditos c:",JOptionPane.INFORMATION_MESSAGE);
 
 	}
+	//new ImageIcon(MainMenu.class.getResource("/Imagenes_Variadas/monitoBailarin.gif"))
 }
