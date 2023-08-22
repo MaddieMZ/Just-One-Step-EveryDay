@@ -2,68 +2,68 @@
     {
         "Nombre": "Saltos De Tijera",
         "Imagen": "General1.png",
-        "Descripcion": "Comienza con los pies juntos y los brazos a los lados; a continuación, salta con los pies separados y las manos sobre la cabeza. Vuelve a la posición original y realiza la siguiente repetición. Este ejercicio sirve para entrenar todo el cuerpo y trabaja todos los grandes grupos musculares."
+        "Descripcion": "<html>1- Comienza con los pies juntos y los brazos a los lados<br>2- Salta con los pies separados y las manos sobre la cabeza.<br>3- Vuelve a la posición original</html>"
     },
 
     {
         "Nombre": "Sentadilla en Pared",
         "Imagen": "General2.png",
-        "Descripcion": "Apoye la espalda contra una pared, mantén la espalda recta, baje hasta que sus rodillas estén en ángulo recto y permanezca en esa posición. Este ejercicio se realiza para fortalecer los músculos del cuadriceps."
+        "Descripcion": "<html>1- Apoye la espalda contra una pared<br>2- Mantenga la espalda recta<br>3- Baje hasta que sus rodillas estén en ángulo recto y permanezca en esa posición.</html>"
     },
 
     {
         "Nombre": "Flexiones",
         "Imagen": "General3.png",
-        "Descripcion": "Suba y baje el cuerpo con los brazos, mantenga el cuerpo recto. Procure que los codos formen 45 grados con el tronco, este ejercicio trabaja los músculos del pecho, hombros, tríceps, espalda y piernas."
+        "Descripcion": "<html>1- Suba y baje el cuerpo con los brazos, mantenga el cuerpo recto.</html>"
     },
 
     
     {
         "Nombre": "Crunch Abdominales",
         "Imagen": "General4.png",
-        "Descripcion": "Túmbate boca arriba con las rodillas flexionadas y los brazos extendidos hacia delante. A continuación, levanta el tren superior del suelo. Aguanta unos segundos y vuelve a la posición original lentamente. Sobre todo, se trabajan el músculo del recto del abdomen y los oblicuos."
+        "Descripcion": "<html>1- Túmbate boca arriba con las rodillas flexionadas y los brazos extendidos hacia delante.<br>2- Levanta el tren superior del suelo.<br>3- Vuelve a la posición original lentamente</html>"
     },
 
     {
         "Nombre": "Step en Silla",
         "Imagen": "General5.png",
-        "Descripcion": "Coloque un pie en la silla, levante su cuerpo del suelo hasta subirse con los dos pies en la silla, este ejercicio fortalece las piernas y glúteos."
+        "Descripcion": "<html>1- Coloque un pie en la silla<br>2- Levante su cuerpo del suelo hasta subirse con los dos pies en la silla. Repita"
     },
 
     {
         "Nombre": "Squats",
         "Imagen": "General6.png",
-        "Descripcion": "De pie, con los pies alineados con los hombros y los brazos estirados hacia delante, baja el cuerpo hasta que los muslos se encuentren paralelos al suelo. Al extender las rodillas, estas deberían quedar alineadas con la punta de los pies. Vuelve a la posición original y realiza la siguiente repetición. Este ejercicio trabaja los muslos, los glúteos, el cuádriceps, los isquiotibiales y el tren inferior."
+        "Descripcion": "<html>1- Baja el cuerpo hasta que los muslos se encuentren paralelos al suelo.<br>2- Vuelva a la posicion original</html>"
     },
 
     {
         "Nombre": "Tríceps en Silla",
         "Imagen": "General7.png",
-        "Descripcion": "Apóyese con los brazos en la parte delantera de la silla y sitúe los pies hacia delante. Manteniendo la espalda cerca de la silla, doble los codos y trate de bajar a 90 grados. Este es un gran ejercicio para el tríceps."
+        "Descripcion": "<html>Apóyese con los brazos en la parte delantera de la silla y sitúe los pies hacia delante. Manteniendo la espalda cerca de la silla, doble los codos y trate de bajar a 90 grados. Este es un gran ejercicio para el tríceps.</html>"
     },
 
     {
         "Nombre": "Tablón",
         "Imagen": "General8.png",
-        "Descripcion": "Si mantenemos la posición para flexiones, dejando caer el peso del cuerpo en los antebrazos, codos y dedos de los pies, los tablones fortalecen los abdominales, la espalda y los hombros."
+        "Descripcion": "<html>1- Mantener la posición para flexiones, dejando caer el peso del cuerpo en los antebrazos, codos y dedos de los pies.</html>"
     },
 
     {
         "Nombre": "Elevaciones de Rodillas",
         "Imagen": "General9.png",
-        "Descripcion": "Levante la pierna hasta que forme un ángulo de 90 grados con el tronco, repita con la otra pierna, y continúe alternando un lado a otro vigorosamente. Este es un excelente ejercicio para las piernas y las caderas y se puede mejorar la flexibilidad del tren inferior."
+        "Descripcion": "<html>Levante la pierna hasta que forme un ángulo de 90 grados con el tronco, repita con la otra pierna, y continúe alternando un lado a otro vigorosamente. Este es un excelente ejercicio para las piernas y las caderas y se puede mejorar la flexibilidad del tren inferior.</html>"
     },
 
     {
         "Nombre": "Zancanda Frontal",
         "Imagen": "General10.png",
-        "Descripcion": "Partiendo de posición de pié, haga como que va a dar un paso grande, de manera que la pierna que se adelanta debe poder llegar a formar 90 grados respecto al tronco que deberá estar siempre erguido. Ahora trate de volver a la posición inicial manteniendo la postura. La zancada fortalece los cuádriceps, los glúteos, así como los tendones de la corva."
+        "Descripcion": "<html>1- Partiendo de posición de pié, haga como que va a dar un paso grande, de manera que la pierna que se adelanta debe poder llegar a formar 90 grados respecto al tronco.<br>2- Vuelva a la posicion original</html>"
     },
 
     {
         "Nombre": "Flexión y Rotación",
         "Imagen": "General11.png",
-        "Descripcion": "Comienza en la posición de flexión. A continuación, baja para realizar una flexión y al subir, rota el tren superior y extiende el brazo derecho hacia arriba. Repite el ejercicio con el otro brazo. Este ejercicio es genial para el pecho, los hombros, los brazos y el torso."
-    }
+        "Descripcion": "<html>1- Suba y baje el cuerpo con los brazos, mantenga el cuerpo recto.<br>2- Gire su tronco superior 90 grados</html>"
+        }
 
 ]

@@ -2,67 +2,67 @@
     {
         "Nombre": "Sentadillas con Salto",
         "Imagen": "Abdomen1.png",
-        "Descripcion": "Comienza haciendo una sentadilla normal, luego salta haciendo fuerza con el abdomen. Cuando caigas agacha el cuerpo en posición de sentadilla. Es un ejercicio genial para calentar todo el cuerpo y comenzar la sesión de entrenamiento para abdominales."
+        "Descripcion": "<html>1- Comienza haciendo una sentadilla normal<br>2- Salta haciendo fuerza con el abdomen.</html>"
     },
 
     {
         "Nombre": "Crunch Inverso",
         "Imagen": "Abdomen2.png",
-        "Descripcion": "Túmbate boca arriba con las rodillas levantadas en un ángulo de 90 grados y las manos detrás de la cabeza. Levanta el tren superior y los muslos, y estira. Repite el ejercicio."
+        "Descripcion": "<html>1- Túmbate boca arriba con las rodillas levantadas en un ángulo de 90 grados <br>2- Levanta el tren superior.</html>"
     },
 
     {
         "Nombre": "Tablon con Brazos Estirados",
         "Imagen": "Abdomen3.png",
-        "Descripcion": "Comienza en posición para hacer flexiones y mantén los brazos estirados; de esta forma se fortalece el abdomen y los músculos de la espalda."
+        "Descripcion": "<html>1- Comienza en posición para hacer flexiones <br>2- Mantén los brazos estirados.</html>"
     },
 
     
     {
         "Nombre": "Twist Ruso",
         "Imagen": "Abdomen4.png",
-        "Descripcion": "Siéntate en el suelo con las rodillas flexionadas, los pies ligeramente levantados y la espalda inclinada hacia atrás. A continuación, une las manos y gira de un lado a otro."
+        "Descripcion": "<html>1- Siéntate en el suelo con las rodillas flexionadas.<br>2- Une las manos y gira de un lado a otro.</html>"
     },
 
     {
         "Nombre": "Perro de Caza",
         "Imagen": "Abdomen5.png",
-        "Descripcion": "Mantén la posición de inicio, luego estira la pierna derecha a la vez que estiras el brazo izquierdo. Mantén caderas y hombres paralelos manteniendo la parte baja de la espalda recta durante 5 segundos. Este ejercicio es un ejercicio estable que trabaja la zona abdominal, la espalda baja, los glúteos y los muslos."
+        "Descripcion": "<html>1- Estirar de arriba a abajo una pierna y un brazo. Alternar</html>"
     },
 
     {
         "Nombre": "Burpees",
         "Imagen": "Abdomen6.png",
-        "Descripcion": "Comienza de pie. Baja y mantén la posición de sentadilla y pon las manos en el suelo. Estira las piernas y brazos a la vez. Vuelve de inmediato a la posición de sentadilla. Salta desde la posición de sentadilla. Los burpees son ejercicios que trabajan todo el cuerpo con ejercicio aeróbico y de fuerza."
+        "Descripcion": "<html>1- Comienza de pie. <br>2-Baja y mantén la posición de sentadilla y pon las manos en el suelo. <br>3-Estira las piernas y brazos a la vez. <br>4-Vuelve de inmediato a la posición de sentadilla. <br>5-Salta desde la posición de sentadilla.</html>"
     },
 
     {
         "Nombre": "Crunch de Brazos Estirados",
         "Imagen": "Abdomen7.png",
-        "Descripcion": "Estira los brazos por detrás de la cabeza, haz abdominales, vuelve a la posición de inicio y repite el movimiento. Este ejercicio aumenta la resistencia abdominal, de hecho es uno de los ejercicios más efectivos para trabajar los abdominales."
+        "Descripcion": "<html>1- Estira los brazos por detrás de la cabeza <br>2- Haz abdominales <br>3- Vuelve a la posición de inicio <br>4- Repite</html>"
     },
 
     {
         "Nombre": "Puente a Una Pierna",
         "Imagen": "Abdomen8.png",
-        "Descripcion": "Túmbate boca arriba, dobla una pierna y levanta la otra. A continuación, levanta las caderas del suelo. Mantén la posición durante cinco segundos y cambia a la otra pierna. Este ejercicio trabaja el abdomen y las caderas."
+        "Descripcion": "<html>1- Túmbate boca arriba<br>2- Dobla una pierna y levanta la otra. <br>3- Levanta las caderas del suelo. <br>4- Mantén la posición durante cinco segundos <br>Cambia a la otra pierna.</html>"
     },
 
     {
         "Nombre": "Flexiones a Una pierna",
         "Imagen": "Abdomen9.png",
-        "Descripcion": "Desde la posición clásica para flexiones, levanta una pierna; podrás ir cambiando de pierna. Este ejercicio trabaja los músculos abdominales inferiores."
+        "Descripcion": "<html>1- Desde la posición clásica para flexiones, levanta una pierna; podrás ir cambiando de pierna.</html>"
     },
 
     {
         "Nombre": "Tablón",
         "Imagen": "Abdomen10.png",
-        "Descripcion": "Si mantenemos la posición para flexiones, dejando caer el peso del cuerpo en los antebrazos, codos y dedos de los pies, los tablones fortalecen los abdominales, la espalda y los hombros."
+        "Descripcion": "<html>1- Mantener la posición para flexiones, dejando caer el peso del cuerpo en los antebrazos, codos y dedos de los pies.</html>"
     },
 
     {
         "Nombre": "Crunch de Brazos Cruzados",
         "Imagen": "Abdomen11.png",
-        "Descripcion": "Cruza los brazos delante del pecho. Curva los hombres hacia la pelvis. Su función principal es trabajar el músculo recto abdominal, aunque también trabaja los oblicuos."
+        "Descripcion": "<html>1- Cruza los brazos delante del pecho.<br>2- Curva los hombres hacia la pelvis.</html>"
     }
 ]

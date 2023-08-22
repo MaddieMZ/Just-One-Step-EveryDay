@@ -2,67 +2,67 @@
     {
         "Nombre": "Elevaciones Laterales de Brazos",
         "Imagen": "Brazos1.png",
-        "Descripcion": "Colócate de pie y con los pies alineados con los hombros.Eleva los brazos hacia los lados a la altura de los hombros y bájalos. Repite el ejercicio."
+        "Descripcion": "<html>1- Colócate de pie y con los pies alineados con los hombros.<br>2- Eleva los brazos hacia los lados a la altura de los hombros <br>3- Bajalos</html>"
     },
 
     {
         "Nombre": "Flexiones",
         "Imagen": "Brazos2.png",
-        "Descripcion": "Suba y baje el cuerpo con los brazos, mantenga el cuerpo recto. Procure que los codos formen 45 grados con el tronco, este ejercicio trabaja los músculos del pecho, hombros, tríceps, espalda y piernas."
+        "Descripcion": "<html>1- Suba y baje el cuerpo con los brazos, mantenga el cuerpo recto.</html>"
     },
 
     {
         "Nombre": "Tríceps en Silla",
         "Imagen": "Brazos3.png",
-        "Descripcion": "Apóyese con los brazos en la parte delantera de la silla y sitúe los pies hacia delante. Manteniendo la espalda cerca de la silla, doble los codos y trate de bajar a 90 grados. Este es un gran ejercicio para el tríceps."
+        "Descripcion": "<html>1- Apóyese con los brazos en la parte delantera de la silla y sitúe los pies hacia delante.<br>2- Manteniendo la espalda cerca de la silla, doble los codos y trate de bajar a 90 grados.</html>"
     },
 
     
     {
         "Nombre": "Flexiones en Diamante",
         "Imagen": "Brazos4.png",
-        "Descripcion": "Comienza a cuatro patas con las rodillas a la altura de las caderas y las manos debajo de los hombros. Luego crea una forma de diamante debajo del pecho juntando los dedos índices y pulgares y luego presiona el cuerpo arriba y abajo. Recuerda mantener el torso en línea recta."
+        "Descripcion": "<html>1- Crea una forma de diamante debajo del pecho juntando los dedos índices y pulgares <br>2- Presiona el cuerpo arriba y abajo. Recuerda mantener el torso en línea recta.</html>"
     },
 
     {
         "Nombre": "Puñetazos",
         "Imagen": "Brazos5.png",
-        "Descripcion": "Comienza con las piernas separadas a la altura de los hombros y las rodillas ligeramente flexionadas. Flexiona los codos y cierra los puños por delante de la cara. Extiende un brazo hacia delante con la palma de la mano hacia abajo. Vuelve a contraer el brazo y repite con el brazo contrario."
+        "Descripcion": "<html>1- Comienza con las piernas separadas a la altura de los hombros y las rodillas ligeramente flexionadas. <br>2- Flexiona los codos y cierra los puños por delante de la cara.<br> 3-Extiende un brazo hacia delante con la palma de la mano hacia abajo. <br>4- Vuelve a contraer el brazo y repite con el brazo contrario.</html>"
     },
 
     {
         "Nombre": "Planchas Arriba y Abajo",
         "Imagen": "Brazos6.png",
-        "Descripcion": "Comienza en la posición de plancha recta.A continuación, flexiona el brazo derecho y apoya el antebrazo en el suelo con el codo alineado con el hombro. Después, flexiona el brazo izquierdo y toma la posición de plancha tradicional.Vuelve a la posición original y repite el ejercicio."
+        "Descripcion": "<html>1- Comienza en la posición de plancha recta.<br>2- Flexiona el brazo derecho y apoya el antebrazo en el suelo con el codo alineado con el hombro. <br>3- Flexiona el brazo izquierdo y toma la posición de plancha tradicional</html>"
     },
 
     {
         "Nombre": "Estiramientos de Hombros",
         "Imagen": "Brazos7.png",
-        "Descripcion": "Coloca un brazo entrecruzado con tu cuerpo, paralelo al suelo, y a continuación utiliza el otro brazo para tirar del brazo en paralelo en dirección al pecho. Mantén un rato la posición, cambia de brazo y repite el ejercicio."
+        "Descripcion": "<html>1- Coloca un brazo entrecruzado con tu cuerpo, paralelo al suelo.<br> 2- Utiliza el otro brazo para tirar del brazo en paralelo en dirección al pecho. <br>3- Mantén un rato la posición, cambia de brazo y repite el ejercicio.</html>"
     },
 
     {
         "Nombre": "Rotaciones de Brazos",
         "Imagen": "Brazos8.png",
-        "Descripcion": "De pie en el suelo con los brazos extendidos a los lados a la altura de los hombros. Mueve los brazos formando círculos hacia delante y luego hacia detrás."
+        "Descripcion": "<html>1- De pie en el suelo con los brazos extendidos,mueve los brazos formando círculos hacia delante y luego hacia detrás.</html>"
     },
 
     {
         "Nombre": "Flexiones Inversas",
         "Imagen": "Brazos9.png",
-        "Descripcion": "Comienza en la posición habitual para flexiones. Empuja tu cuerpo hacia abajo, luego flexiona las rodillas y presiona tus caderas hacia atrás con los brazos rectos. Vuelve a la posición inicial y repite el ejercicio."
+        "Descripcion": "<html>1- Comienza en la posición habitual para flexiones.<br> 2-Empuja tu cuerpo hacia abajo<br>3- Flexiona las rodillas y presiona tus caderas hacia atrás con los brazos rectos. </html>"
     },
 
     {
         "Nombre": "Puñetazos",
         "Imagen": "Brazos10.png",
-        "Descripcion": "Comienza con las piernas separadas a la altura de los hombros y las rodillas ligeramente flexionadas. Flexiona los codos y cierra los puños por delante de la cara. Extiende un brazo hacia delante con la palma de la mano hacia abajo. Vuelve a contraer el brazo y repite con el brazo contrario."
+        "Descripcion": "<html>1- Comienza con las piernas separadas a la altura de los hombros y las rodillas ligeramente flexionadas.<br>2- Flexiona los codos y cierra los puños por delante de la cara.<br>3- Extiende un brazo hacia delante con la palma de la mano hacia abajo. <br>4- Vuelve a contraer el brazo y repite con el brazo contrario.</html>"
     },
 
     {
         "Nombre": "Flexiones a Una Pierna",
         "Imagen": "Brazos11.png",
-        "Descripcion": "Desde la posición clásica para flexiones, levanta una pierna; podrás ir cambiando de pierna. Este ejercicio trabaja los músculos abdominales inferiores."
+        "Descripcion": "<html>1- Desde la posición clásica para flexiones, levanta una pierna; podrás ir cambiando de pierna.</html>"
     }
 ]

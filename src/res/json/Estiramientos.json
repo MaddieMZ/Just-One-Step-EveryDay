@@ -2,68 +2,68 @@
     {
         "Nombre": "Est. de Estocada izquierda",
         "Imagen": "Estiramiento1.png",
-        "Descripcion": "Comienza en la posición de flexión. Adelanta la rodilla izquierda y apoya la rodilla derecha en el suelo.Levanta el tren superior y coloca las manos en la cintura. A continuación, mueve la cadera hacia delante a la vez que mantienes recto el tren superior.Asegúrate de que la rodilla delantera no sobrepasa a los dedos de los pies. Mantén esta posición durante unos segundos."
+        "Descripcion": "<html>1- Comienza en la posición de flexión. <br>2- Adelanta la rodilla izquierda y apoya la rodilla derecha en el suelo.<br>3- Levanta el tren superior <br>4- Coloca las manos en la cintura. <br>5- Mueve la cadera hacia delante a la vez que mantienes recto el tren superior.</html>"
     },
 
     {
         "Nombre": "Est. de Estocada derecha",
         "Imagen": "Estiramiento2.png",
-        "Descripcion": "Comienza en la posición de flexión. Adelanta la rodilla derecha y apoya la rodilla izquierda en el suelo.Levanta el tren superior y coloca las manos en la cintura. A continuación, mueve la cadera hacia delante a la vez que mantienes recto el tren superior.Asegúrate de que la rodilla delantera no sobrepasa a los dedos de los pies. Mantén esta posición durante unos segundos."
-    },
+        "Descripcion": "<html>1- Comienza en la posición de flexión. <br>2- Adelanta la rodilla derecha y apoya la rodilla  en el suelo.<br>3- Levanta el tren superior <br>4- Coloca las manos en la cintura. <br>5- Mueve la cadera hacia delante a la vez que mantienes recto el tren superior.</html>"
+     },
 
     {
         "Nombre": "Est. de Pantorrilla izquierda",
         "Imagen": "Estiramiento3.png",
-        "Descripcion": "Colócate a un paso grande de distancia de una pared. Adelanta el pie derecho y empuja la pared con las manos.Asegúrate de que la pierna izquierda está totalmente extendida y de que notas cómo se estira la pantorrilla izquierda. Mantén esta posición durante unos segundos."
+        "Descripcion": "<html>1- Colócate a un paso grande de distancia de una pared. <br>2- Adelanta el pie derecho y empuja la pared con las manos. Manten esta posicion</html>"
     },
 
     
     {
         "Nombre": "Est. de Pantorrilla derecha",
         "Imagen": "Estiramiento4.png",
-        "Descripcion": "Colócate a un paso grande de distancia de una pared. Adelanta el pie izquierdo y empuja la pared con las manos.Asegúrate de que la pierna derecha está totalmente extendida y de que notas cómo se estira la pantorrilla derecha. Mantén esta posición durante unos segundos."
+        "Descripcion": "<html>1- Colócate a un paso grande de distancia de una pared. <br>2- Adelanta el pie izquierdo y empuja la pared con las manos. Manten esta posicion</html>"
     },
 
     {
         "Nombre": "Est. deTríceps izquierdo",
         "Imagen": "Estiramiento5.png",
-        "Descripcion": "Coloca la mano izquierda en la espalda, utiliza la mano derecha para agarrar el codo izquierdo y tira de él suavemente. Mantén esta posición durante unos segundos."
+        "Descripcion": "<html>1- Coloca la mano izquierda en la espalda<br>2- Utiliza la mano derecha para agarrar el codo izquierdo y tira de él suavemente.</html>"
     },
 
     {
         "Nombre": "Est. de tríceps derecho",
         "Imagen": "Estiramiento6.png",
-        "Descripcion": "Coloca la mano derecha en la espalda, utiliza la mano izquierda para agarrar el codo derecho y tira de él suavemente. Mantén esta posición durante unos segundos."
+        "Descripcion": "<html>1- Coloca la mano derecha en la espalda<br>2- Utiliza la mano izquierda para agarrar el codo izquierdo y tira de él suavemente.</html>"
     },
 
     {
         "Nombre": "Postura Gato Vaca",
         "Imagen": "Estiramiento7.png",
-        "Descripcion": "Comienza a cuatro patas con las rodillas en paralelo al trasero y las manos justo debajo de los hombros.A continuación, inspira y baja la barriga, estira los hombros hacia atrás y levanta la cabeza hacia arriba.Al espirar, dobla la espalda hacia atrás y baja la cabeza. Repite el ejercicio."
+        "Descripcion": "<html>1- Comienza a cuatro patas con las rodillas en paralelo a los gluteos y las manos justo debajo de los hombros.<br>2- Respira y baja la barriga<br>3- Estira los hombros hacia atrás y levanta la cabeza hacia arriba<br>4- Al respirar, dobla la espalda hacia atrás y baja la cabeza.</html>"
     },
 
     {
         "Nombre": "Estiramiento de cobra",
         "Imagen": "Estiramiento8.png",
-        "Descripcion": "Túmbate boca abajo, dobla los codos y coloca las manos por debajo de los hombros.A continuación, levanta el pecho del suelo tanto como puedas. Mantén la posición durante unos segundos."
+        "Descripcion": "<html>1- Túmbate boca abajo<br>2- Dobla los codos y coloca las manos por debajo de los hombros.<br>3- Levanta el pecho del suelo tanto como puedas.</html>"
     },
 
     {
         "Nombre": "Postura de Bebé",
         "Imagen": "Estiramiento9.png",
-        "Descripcion": "Comienza con las rodillas y las manos en el suelo. Coloca las manos un poco adelantadas, abre las rodillas y junta las puntas de los pies. Inspira, espira y siéntate sobre las rodillas. Intenta que tu trasero toque los talones. Relaja los codos, toca el suelo con la frente e intenta bajar el pecho hasta el suelo. Mantén esta posición."
+        "Descripcion": "<html>1- Comienza con las rodillas y las manos en el suelo. <br>2- Coloca las manos un poco adelantadas<br>3- Abre las rodillas y junta las puntas de los pies. <br>4- Inspira, espira y siéntate sobre las rodillas.<br>5- Trata de tocar el suelo con tu frente</html>"
     },
 
     {
         "Nombre": "Est. de columna izquierdo",
         "Imagen": "Estiramiento10.png",
-        "Descripcion": "Túmbate boca arriba con las piernas extendidas.Levanta la pierna izquierda y utiliza la mano derecha para tirar de la rodilla izquierda hacia la derecha a la vez que mantienes el otro brazo extendido hacia el lado y apoyado en el suelo.Mantén esta posición durante unos segundos."
+        "Descripcion": "<html>1- Túmbate boca arriba con las piernas extendidas.<br>2- Levanta la pierna izquierda y utiliza la mano derecha para tirar de la rodilla izquierda hacia la derecha.</html>"
     },
 
     {
         "Nombre": "Est. de columna derecho",
         "Imagen": "Estiramiento11.png",
-        "Descripcion": "Túmbate boca arriba con las piernas extendidas.Levanta la pierna derecha y utiliza la mano izquierda para tirar de la rodilla derecha hacia la izquierda a la vez que mantienes el otro brazo extendido hacia el lado y apoyado en el suelo.Mantén esta posición durante unos segundos."
+        "Descripcion": "<html>1- Túmbate boca arriba con las piernas extendidas.<br>2- Levanta la pierna derecha y utiliza la mano derecha para tirar de la rodilla derecha hacia la izquierda.</html>"
     }
 
 ]

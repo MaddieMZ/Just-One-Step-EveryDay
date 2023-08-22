@@ -12,6 +12,8 @@ public class Seleccion extends JPanel {
 	private static final long serialVersionUID = 5275715189222879173L;
 
 	public Seleccion(Interfaz listener) {
+		listener.reiniciarEjActual();
+
 		setBackground(new Color(249, 248, 246));
 
 		setLayout(null);
@@ -34,6 +36,7 @@ public class Seleccion extends JPanel {
 		BrazosInicio.setFont(new Font("Roboto", Font.PLAIN, 14));
 		BrazosInicio.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				listener.reiniciarEjActual();
 				listener.setContenido(Interfaz.BRAZOS);
 				System.out.println(listener.getContenido());
 				listener.PantallaElegida(Interfaz.DESCANSO);			
@@ -64,6 +67,7 @@ public class Seleccion extends JPanel {
 		JButton PiernasInicio = new JButton("Iniciar");
 		PiernasInicio.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				listener.reiniciarEjActual();
 				listener.setContenido(Interfaz.PIERNAS);
 				System.out.println(listener.getContenido());
 				listener.PantallaElegida(Interfaz.DESCANSO);			
@@ -95,6 +99,7 @@ public class Seleccion extends JPanel {
 		AbdomenInicio.setFont(new Font("Roboto", Font.PLAIN, 14));
 		AbdomenInicio.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				listener.reiniciarEjActual();
 				listener.setContenido(Interfaz.ABDOMEN);
 				System.out.println(listener.getContenido());
 				listener.PantallaElegida(Interfaz.DESCANSO);
@@ -125,6 +130,7 @@ public class Seleccion extends JPanel {
 		GeneralInicio.setFont(new Font("Roboto", Font.PLAIN, 14));
 		GeneralInicio.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				listener.reiniciarEjActual();
 				listener.setContenido(Interfaz.GENERAL);
 				System.out.println(listener.getContenido());
 				listener.PantallaElegida(Interfaz.DESCANSO);
@@ -155,6 +161,7 @@ public class Seleccion extends JPanel {
 		EstiramientoInicio.setFont(new Font("Roboto", Font.PLAIN, 14));
 		EstiramientoInicio.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				listener.reiniciarEjActual();
 				listener.setContenido(Interfaz.ESTIRAMIENTOS);
 				System.out.println(listener.getContenido());
 				listener.PantallaElegida(Interfaz.DESCANSO);

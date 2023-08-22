@@ -1,0 +1,69 @@
+[
+    {
+        "Nombre": "Levantamiento de talones",
+        "Imagen": "Piernas1.png",
+        "Descripcion": "De pie con la espalda recta y con los pies juntos. Levanta los talones y mantenerse de puntillas. A continuación, vuelve a bajar los talones. Repita el ejercicio levantando los talones 10-15 veces."
+    },
+
+    {
+        "Nombre": "Zancada Cruzada",
+        "Imagen": "Piernas2.png",
+        "Descripcion": "Póngase de pie y de un paso hacia atrás con la pierna izquierda hacia la derecha y agáchese al mismo tiempo. Vuelve a la posición de antes y cambie de piernas."
+    },
+
+    {
+        "Nombre": "Elevación De Talón Izquierdo",
+        "Imagen": "Piernas3.png",
+        "Descripcion": "De pie con las manos en la pared. Ponga su pie derecho en el tobillo izquierdo, levante y baje el talón izquierdo, y cambie con la pierna."
+    },
+
+    
+    {
+        "Nombre": "Zancadas Lateral",
+        "Imagen": "Piernas4.png",
+        "Descripcion": "De pie, mueva su pierna derecha a un lado y agáchese, presionando con la pierna izquierda. Vuelve a la posición de antes y cambie de pierna."
+    },
+
+    {
+        "Nombre": "Saltos con la Rodilla Izquierda",
+        "Imagen": "Piernas5.png",
+        "Descripcion": "Póngase de pie. De un paso hacia atrás con su pierna izquierdo y agáchese. A continuación levante la pierna izquierdo hasta el pecho. Y cambie de pierna y repita."
+    },
+
+    {
+        "Nombre": "Elevación De Talón Derecho",
+        "Imagen": "Piernas6.png",
+        "Descripcion": "De pie con las manos en la pared. Ponga su pie izquierdo en el tobillo derecha, levante y baje el talón derecha, y cambie con la pierna."
+    },
+
+    {
+        "Nombre": "Levantar Pierna Izquierda",
+        "Imagen": "Piernas7.png",
+        "Descripcion": "Tumbada de izquierdo lado, con la cabeza reposando en tu izquierdo mano. A continuación ponga su derecha pierna de arriba doblado hacia delante y levante la izquierdo pierna que esta en el suelo."
+    },
+
+    {
+        "Nombre": "Levantar Pierna Derecha",
+        "Imagen": "Piernas8.png",
+        "Descripcion": "Tumbada de derecha lado, con la cabeza reposando en tu derecha mano. A continuación ponga su izquierdo pierna de arriba doblado hacia delante y levante la derecha pierna que esta en el suelo."
+    },
+
+    {
+        "Nombre": "Saltos con la Rodilla Derecha",
+        "Imagen": "Piernas9.png",
+        "Descripcion": "Póngase de pie. De un paso hacia atrás con su pierna derecha y agáchese. A continuación levante la pierna derecha hasta el pecho. Y cambie de pierna y repita."
+    },
+
+    {
+        "Nombre": "Círculos de Pierna Izquierda",
+        "Imagen": "Piernas10.png",
+        "Descripcion": "Tumbada de derecha lado, con la cabeza descansado en tu derecha mano. Levante la izquierdo pierna de arriba y haga círculos con la pierna."
+    },
+
+    {
+        "Nombre": "Círculos de Pierna Derecha",
+        "Imagen": "Piernas11.png",
+        "Descripcion": "Tumbada de lado, con la cabeza descansado en tu mano. Levante la pierna de arriba y haga círculos con la pierna."
+    }
+
+]
